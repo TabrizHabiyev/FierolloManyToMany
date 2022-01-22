@@ -317,3 +317,5 @@ C:\Users\Tabriz\Desktop\FierolloManyToMany\FiorelloBack\FiorelloBack\obj\Debug\n
 C:\Users\Tabriz\Desktop\FierolloManyToMany\FiorelloBack\FiorelloBack\obj\Debug\netcoreapp3.1\FiorelloBack.dll
 C:\Users\Tabriz\Desktop\FierolloManyToMany\FiorelloBack\FiorelloBack\obj\Debug\netcoreapp3.1\FiorelloBack.pdb
 C:\Users\Tabriz\Desktop\FierolloManyToMany\FiorelloBack\FiorelloBack\obj\Debug\netcoreapp3.1\FiorelloBack.genruntimeconfig.cache
+C:\Users\Tabriz\Desktop\FierolloManyToMany\FiorelloBack\FiorelloBack\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Tabriz\Desktop\FierolloManyToMany\FiorelloBack\FiorelloBack\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
